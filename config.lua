@@ -113,8 +113,6 @@ Config.NpcSkins = {
         'g_f_y_ballas_01',
     },
     [2] = {
-        'ig_barry',
-        'ig_bestmen',
         'ig_beverly',
         'ig_car3guy1',
         'ig_car3guy2',
@@ -131,7 +129,6 @@ Config.NpcSkins = {
         'ig_floyd',
         'ig_groom',
         'ig_hao',
-        'ig_hunter',
         'csb_prolsec',
         'ig_joeminuteman',
         'ig_josef',
